@@ -5,3 +5,4 @@ Day 15 - Setup Local Development Environment & Coffee Machine Project
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (21/12/2023); update tomorrow.
+  Finished practice (22/12/2023); updated.
